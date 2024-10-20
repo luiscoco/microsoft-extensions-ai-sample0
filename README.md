@@ -7,3 +7,5 @@ https://learn.microsoft.com/en-us/collections/d2z1bmomeo55kr?source=learn
 https://github.com/settings/tokens?type=beta
 
 https://github.com/marketplace/models
+
+https://github.com/dotnet/ai-samples
