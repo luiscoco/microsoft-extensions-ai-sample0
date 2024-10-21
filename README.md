@@ -34,7 +34,11 @@ We input the Github Key input data
 
 ![image](https://github.com/user-attachments/assets/bb850318-502c-4566-a8af-a8bea4d244f7)
 
+![image](https://github.com/user-attachments/assets/92bb5c5f-1078-4ecd-bca2-14ad8dae6cbf)
 
+See the result
+
+![image](https://github.com/user-attachments/assets/add56971-83b1-4d0c-9332-2600e0f3a18a)
 
 
 ## 2. Sample 1: Chat
