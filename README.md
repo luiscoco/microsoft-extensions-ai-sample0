@@ -79,6 +79,12 @@ We review the project folders and files structure
 
 ![image](https://github.com/user-attachments/assets/96da0d32-fa8c-4ad7-9e80-307b2d8785f1)
 
+We add the Microsoft.Extension.AI Nuget package
+
+![image](https://github.com/user-attachments/assets/77f29fe7-ba4c-4caa-84af-ae7ce36bb3d4)
+
+
+
 We create a new razor component
 
 ![image](https://github.com/user-attachments/assets/c5ccb215-bb0b-46c4-851b-4d2f36eb061f)
