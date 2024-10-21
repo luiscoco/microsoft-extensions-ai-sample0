@@ -55,6 +55,28 @@ IChatClient client =
 Console.WriteLine(await client.CompleteAsync("What is AI?"));
 ```
 
+We are going to integrate the above sample in a Blazor Web App and deploy it to Azure
+
+We first run Visual Studio 2022 and create a new project
+
+![image](https://github.com/user-attachments/assets/5abdd1f6-338d-4fa5-abdf-b4efce1aff59)
+
+We select the Blazor Web App project template in Visual Studio 2022
+
+![image](https://github.com/user-attachments/assets/0224afc3-d7e9-438e-b06c-8574d9e95256)
+
+We input the project name and location and press the Next button
+
+![image](https://github.com/user-attachments/assets/b560ed48-fc2b-498b-815e-dbcc9a9c7804)
+
+We select the .NET9 framework and press the Create button
+
+![image](https://github.com/user-attachments/assets/9c287c36-e8f7-4074-b3c7-1081c9c39375)
+
+We review the project folders and files structure
+
+
+
 ## 3. Sample 2: Chat + Conversation History
 
 ## 4. Sample 3: Chat streaming
