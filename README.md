@@ -93,7 +93,7 @@ We input the razor component name
 
 We verify the new component was created
 
-![image](https://github.com/user-attachments/assets/c23fc070-97e7-46cf-a26d-04e8a459b03d)
+![image](https://github.com/user-attachments/assets/27c06302-5866-41b4-b977-e368295360cd)
 
 We define the component UI, including **bootstrap5** styles
 
