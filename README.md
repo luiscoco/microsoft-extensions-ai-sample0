@@ -4,8 +4,6 @@ https://www.nuget.org/packages/Microsoft.Extensions.AI.AzureAIInference/
 
 https://learn.microsoft.com/en-us/collections/d2z1bmomeo55kr?source=learn
 
-https://github.com/settings/tokens?type=beta
-
 https://github.com/dotnet/ai-samples
 
 ## 1. How to create GitHub Token (GH_TOKEN)
@@ -24,6 +22,9 @@ We press in the **Get API key** button
 
 ![image](https://github.com/user-attachments/assets/64b9272b-7602-472f-81c8-a4b88ef5cfda)
 
+We can also navigate to this web page to generate the GitHub Token: https://github.com/settings/tokens?type=beta
+
+![image](https://github.com/user-attachments/assets/948ffb84-ee5e-4c90-b2aa-9c1230cc0261)
 
 
 ## 2. Sample 1: Chat
