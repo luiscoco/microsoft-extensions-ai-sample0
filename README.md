@@ -26,6 +26,9 @@ We can also navigate to this web page to generate the GitHub Token: https://gith
 
 ![image](https://github.com/user-attachments/assets/948ffb84-ee5e-4c90-b2aa-9c1230cc0261)
 
+Now we have to create an **Environmental Variable** called GH_TOKEN to store the Gihtub Token value
+
+![image](https://github.com/user-attachments/assets/d0d4d86d-da90-4239-a754-20aacf21be27)
 
 ## 2. Sample 1: Chat
 
