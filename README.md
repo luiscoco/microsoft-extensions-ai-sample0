@@ -81,6 +81,10 @@ We review the project folders and files structure
 
 We add the **Microsoft.Extension.AI** Nuget package
 
+```
+NuGet\Install-Package Microsoft.Extensions.AI -Version 9.0.0-preview.9.24507.7
+```
+
 ![image](https://github.com/user-attachments/assets/77f29fe7-ba4c-4caa-84af-ae7ce36bb3d4)
 
 We create a new razor component
