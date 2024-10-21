@@ -6,8 +6,6 @@ https://learn.microsoft.com/en-us/collections/d2z1bmomeo55kr?source=learn
 
 https://github.com/settings/tokens?type=beta
 
-
-
 https://github.com/dotnet/ai-samples
 
 ## 1. How to create GitHub Token (GH_TOKEN)
@@ -21,6 +19,11 @@ Select the **AI Model**: gpt-4o-mini (https://github.com/marketplace/models/azur
 ![image](https://github.com/user-attachments/assets/c43ae989-5456-4090-bff0-f88e83d25fb5)
 
 ![image](https://github.com/user-attachments/assets/2af69732-d116-4985-8fee-0a1f19bdac9e)
+
+We press in the **Get API key** button
+
+![image](https://github.com/user-attachments/assets/64b9272b-7602-472f-81c8-a4b88ef5cfda)
+
 
 
 ## 2. Sample 1: Chat
