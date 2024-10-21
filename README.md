@@ -28,7 +28,7 @@ We can also navigate to this web page to generate the GitHub Token: https://gith
 
 ![image](https://github.com/user-attachments/assets/948ffb84-ee5e-4c90-b2aa-9c1230cc0261)
 
-We input the Github Key input data
+We input the **Github Key** input data
 
 ![image](https://github.com/user-attachments/assets/bb850318-502c-4566-a8af-a8bea4d244f7)
 
@@ -59,11 +59,11 @@ Console.WriteLine(await client.CompleteAsync("What is AI?"));
 
 We are going to integrate the above sample in a Blazor Web App and deploy it to Azure
 
-We first run Visual Studio 2022 and create a new project
+We first run **Visual Studio 2022** and create a new project
 
 ![image](https://github.com/user-attachments/assets/5abdd1f6-338d-4fa5-abdf-b4efce1aff59)
 
-We select the Blazor Web App project template in Visual Studio 2022
+We select the **Blazor Web App** project template in Visual Studio 2022
 
 ![image](https://github.com/user-attachments/assets/0224afc3-d7e9-438e-b06c-8574d9e95256)
 
@@ -71,7 +71,7 @@ We input the project name and location and press the Next button
 
 ![image](https://github.com/user-attachments/assets/b560ed48-fc2b-498b-815e-dbcc9a9c7804)
 
-We select the .NET9 framework and press the Create button
+We select the **.NET9** framework and press the Create button
 
 ![image](https://github.com/user-attachments/assets/9c287c36-e8f7-4074-b3c7-1081c9c39375)
 
@@ -79,21 +79,23 @@ We review the project folders and files structure
 
 ![image](https://github.com/user-attachments/assets/96da0d32-fa8c-4ad7-9e80-307b2d8785f1)
 
-We add the Microsoft.Extension.AI Nuget package
+We add the **Microsoft.Extension.AI** Nuget package
 
 ![image](https://github.com/user-attachments/assets/77f29fe7-ba4c-4caa-84af-ae7ce36bb3d4)
-
-
 
 We create a new razor component
 
 ![image](https://github.com/user-attachments/assets/c5ccb215-bb0b-46c4-851b-4d2f36eb061f)
 
-We input the component name
+We input the razor component name
 
 ![image](https://github.com/user-attachments/assets/889c415b-3879-4592-8964-bae0becb0bfd)
 
-We define the component UI, including bootstra 5 styles
+We verify the new component was created
+
+![image](https://github.com/user-attachments/assets/c23fc070-97e7-46cf-a26d-04e8a459b03d)
+
+We define the component UI, including **bootstrap5** styles
 
 
 
