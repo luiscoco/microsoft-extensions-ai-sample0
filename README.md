@@ -6,6 +6,8 @@ https://learn.microsoft.com/en-us/collections/d2z1bmomeo55kr?source=learn
 
 https://github.com/dotnet/ai-samples
 
+![image](https://github.com/user-attachments/assets/2160239e-7816-47a5-8174-f8cf0f6490d9)
+
 ## 1. How to create GitHub Token (GH_TOKEN)
 
 Navigate to the **GitHub AI Models** web page: https://github.com/marketplace/models
