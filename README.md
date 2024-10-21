@@ -30,6 +30,13 @@ Now we have to create an **Environmental Variable** called GH_TOKEN to store the
 
 ![image](https://github.com/user-attachments/assets/d0d4d86d-da90-4239-a754-20aacf21be27)
 
+We input the Github Key input data
+
+![image](https://github.com/user-attachments/assets/bb850318-502c-4566-a8af-a8bea4d244f7)
+
+
+
+
 ## 2. Sample 1: Chat
 
 ```csharp
