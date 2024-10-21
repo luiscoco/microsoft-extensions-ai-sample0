@@ -75,6 +75,18 @@ We select the .NET9 framework and press the Create button
 
 We review the project folders and files structure
 
+![image](https://github.com/user-attachments/assets/96da0d32-fa8c-4ad7-9e80-307b2d8785f1)
+
+We create a new razor component
+
+![image](https://github.com/user-attachments/assets/c5ccb215-bb0b-46c4-851b-4d2f36eb061f)
+
+We input the component name
+
+![image](https://github.com/user-attachments/assets/889c415b-3879-4592-8964-bae0becb0bfd)
+
+We define the component UI, including bootstra 5 styles
+
 
 
 ## 3. Sample 2: Chat + Conversation History
